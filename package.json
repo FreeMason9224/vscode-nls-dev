@@ -42,7 +42,7 @@
 		"iconv-lite": "^0.6.3",
 		"is": "^3.2.1",
 		"source-map": "^0.6.1",
-		"typescript": "^3.9.5",
+		"typescript": "^3.9.10",
 		"vinyl": "^2.1.0",
 		"xml2js": "^0.4.19",
 		"yargs": "^16.0.3"
