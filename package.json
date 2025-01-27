@@ -44,7 +44,7 @@
 		"source-map": "^0.6.1",
 		"typescript": "^3.9.10",
 		"vinyl": "^2.1.0",
-		"xml2js": "^0.4.19",
+		"xml2js": "^0.6.2",
 		"yargs": "^16.0.3"
 	},
 	"scripts": {
